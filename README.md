@@ -75,7 +75,7 @@ Nós usamos [SemVer](http://semver.org/) para controle de versão. Para as vers�
 O presente projeto foi desenvolvido pelos seguintes colaboradores:
 
 * **Wellington Goulart** - *Desenvolvimento* - [Wllington Goulart](https://github.com/linkParaPerfil)
-* **Isabela Moreira** - *Documentação* - [Isabela Moreira](https://github.com/linkParaPerfil)
+* **Isabele Moreira de Andrade** - *Documentação* - [Isabele Moreira](https://github.com/IsabeleMoreira)
 * **Tiago Rodrigues Cordeiro da Silva** - *Documentação* - [Tiago Rodrigues](https://github.com/tiagoRCS/)
 
 
